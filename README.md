@@ -1,2 +1,7 @@
-# encrypt
-A small Node application designed to encrypt messages for artworks.
+# ENCRYPT
+
+Encrypts messages for artwork.
+
+Requires two keys: one stored in [REDACTED] and the other stored in the RFID chip implanted in Dan Hett's left hand.
+
+Accepts arbitrary text content and encrypts with AES256. Output is base64 encoded to control character set.

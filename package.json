@@ -1,0 +1,18 @@
+{
+  "name": "encrypt",
+  "version": "1.0.0",
+  "description": "A small Node application designed to encrypt messages for artworks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Hett (hellodanhett@gmail.com)",
+  "license": "ISC",
+  "repository": "https://github.com/danhett/encrypt",
+  "dependencies": {
+    "aes256": "^1.0.2",
+    "base-64": "^0.1.0",
+    "dotenv": "^4.0.0",
+    "make-runnable": "^1.3.6"
+  }
+}
